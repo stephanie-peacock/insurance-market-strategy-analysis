@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project uses statistical modeling and forecasting to address business decisions for a regional auto insurance company seeking to expand its market while retaining existing customers.
+This project uses statistical modeling and forecasting to address business decisions for a fictional regional auto insurance company seeking to expand its market while retaining existing customers.
 
 The analysis examines **premium pricing, customer retention, sales lead conversion, and future market demand**, translating statistical results into practical recommendations for pricing, marketing, and workforce planning.
 
