@@ -66,7 +66,7 @@ The analysis supports several potential actions:
 
 The complete report includes the executive summary, statistical analysis, model development and validation, forecasts, and business recommendations.
 
-[Download the Insurance Market Strategy Analysis Report](Insurance Market Review.pdf)
+[Download the Insurance Market Strategy Analysis Report](Insurance%20Market%20Review.pdf)
 
 ## Data Sources
 
